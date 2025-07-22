@@ -6,21 +6,20 @@ and I am a 2nd year CS+math & financial engineering student at WashU. I original
 
 ## 🔧 Technical Skills
 
-| **Skills**                                                                                           |
+| **Skills**             |                                                                             |
 |------------------------|-----------------------------------------------------------------------------|
 | **Languages**          | Python, Java, HTML, CSS, R                                                  |
-| **Frameworks / Libraries** | Flask, React, Pandas, NumPy, scikit-learn, Matplotlib, Plotly, Seaborn  |
+| **Frameworks**         | Flask, React, Pandas, NumPy, scikit-learn, Matplotlib, Plotly, Seaborn      |
 | **Databases**          | PostgreSQL, SQLite                                                          |
-| **Tools / Platforms**  | Git, GitHub, VS Code, Bash, Jupyter Notebooks                               | 
+| **Tools**              | Git, GitHub, VS Code, Bash, Jupyter Notebooks                               | 
 
 ---
 ## Check out some of my projects! Recommended Repositories: ddm or ml-projects
 ---
 ## 📫 let’s connect!
 
-- 💼 LinkedIn: [www.linkedin.com/in/roshan-gurumurthy-09860b234]    
-- 📬 Email: [roshangurumurthy5@gmail.com] or [g.roshan@wustl.edu]
-
+- 💼 LinkedIn: www.linkedin.com/in/roshan-gurumurthy-09860b234
+- 📬 Email: roshangurumurthy5@gmail.com or g.roshan@wustl.edu
 
 <!--
 **roshiguru4/roshiguru4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
