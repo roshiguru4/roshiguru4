@@ -6,47 +6,21 @@ and I am a 2nd year CS+math & financial engineering student at WashU. I original
 
 ## 🔧 Technical Skills
 
-| **Languages** | **Frameworks/Libraries**  | **Databases**  | **Tools/Platforms**  |
-|---------------|---------------------------|----------------|----------------------|
-| Python        | Flask                     | PostgreSQL     | Git & GitHub         |
-| Java          | Matplotly                 | SQLite         | VS Code              |
-| HTML          | Pandas / NumPy            |                | Linux / Bash         |
-| CSS           | scikit-learn              |                | Docker               |
-| R             | TensorFlow / PyTorch      |                | Jupyter Notebooks    |
+| **Skills**                                                                                           |
+|------------------------|-----------------------------------------------------------------------------|
+| **Languages**          | Python, Java, HTML, CSS, R                                                  |
+| **Frameworks / Libraries** | Flask, React, Pandas, NumPy, scikit-learn, Matplotlib, Plotly, Seaborn  |
+| **Databases**          | PostgreSQL, SQLite                                                          |
+| **Tools / Platforms**  | Git, GitHub, VS Code, Bash, Jupyter Notebooks                               | 
 
 ---
-
-## 📚 What I’ve Been Working on This Summer
-
-- **NBA Machine Learning Project**  
-  Built a model to predict NBA player career longevity using logistic regression and random forests on player stat data.
-
-- **Obesity Risk Classifier**  
-  Used the UCI Obesity Dataset to train a random forest model predicting obesity level based on lifestyle features.
-
-- **AI-Powered Web Apps**  
-  Created interactive Flask apps using the OpenAI API:
-  - 🏀 “Higher or Lower” NBA stats game
-  - 🥗 AI-powered healthy recipe generator with user dietary filters
-  - 🎮 Fantasy-style AI basketball coach
-
-- **ML Fundamentals**  
-  Studied and implemented decision trees, regularization, and evaluation metrics using scikit-learn and Kaggle datasets.
-
-- **API Integrations**  
-  Worked with:
-  - `nba_api` for real-time basketball data
-  - OpenAI’s GPT-4 API
-  - Spotify Web API for music project prototyping
-
+## Check out some of my projects! Recommended Repositories: ddm or ml-projects
 ---
+## 📫 let’s connect!
 
-## 📫 Let’s Connect!
+- 💼 LinkedIn: [www.linkedin.com/in/roshan-gurumurthy-09860b234]    
+- 📬 Email: [roshangurumurthy5@gmail.com] or [g.roshan@wustl.edu]
 
-- 💼 LinkedIn: [your-linkedin-url]  
-- 🧑‍💻 GitHub: [your-github-url]  
-- 📬 Email: [your-email]
-## Hi there 👋
 
 <!--
 **roshiguru4/roshiguru4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
