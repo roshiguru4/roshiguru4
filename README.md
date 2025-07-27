@@ -9,7 +9,7 @@ and I am a 2nd year CS+math & financial engineering student at WashU. I original
 | **Skills**             |                                                                             |
 |------------------------|-----------------------------------------------------------------------------|
 | **Languages**          | Python, Java, HTML, CSS, R                                                  |
-| **Frameworks**         | Flask, React, Pandas, NumPy, scikit-learn, Matplotlib, Plotly, Seaborn      |
+| **Frameworks**         | Flask, Pandas, NumPy, scikit-learn, Matplotlib, Plotly, Seaborn      |
 | **Databases**          | PostgreSQL, SQLite                                                          |
 | **Tools**              | Git, GitHub, VS Code, Bash, Jupyter Notebooks                               | 
 
